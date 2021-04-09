@@ -1,1 +1,1 @@
-# sigmagrader
+# OlympiaGrader
